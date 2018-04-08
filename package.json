@@ -47,10 +47,10 @@
   },
   "homepage": "https://github.com/airbnb/hypernova-aphrodite",
   "peerDependencies": {
-    "hypernova": "^2.0.0",
+    "hypernova": "^2.2.0",
     "react": "0.14.x || >= 15.x",
     "react-dom": "0.14.x || >= 15.x",
-    "aphrodite": "^0.4.0 || ^1.1.0"
+    "aphrodite": "^2.1.0"
   },
   "devDependencies": {
     "aphrodite": "^1.2.5",
