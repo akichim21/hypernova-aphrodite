@@ -58,6 +58,7 @@ describe('renderReactWithAphrodite aphrodite css rendering', () => {
       done();
     });
   });
+
   it('does not blow up when calling renderReactWithAphrodite on the client (render method)', (done) => {
     jsdom.env(result, (err, window) => {
       if (err) {
